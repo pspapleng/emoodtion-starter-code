@@ -16,9 +16,3 @@ yarn start
 
 expo start
 ```
-
-
-\
-meet our [emoodtion docs]
-
-[emoodtion docs]: https://tangy-seed-508.notion.site/emoodtion-docs-26bab2b0f2224cbabf316dc2ecb4105b
